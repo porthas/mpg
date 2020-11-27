@@ -1,0 +1,8 @@
+uploads
+temp
+.DS_Store
+frontend/.DS_Store
+frontend/libs/.DS_Store
+vendor/.DS_Store
+vendor/freemius/.DS_Store
+.DS_Store
